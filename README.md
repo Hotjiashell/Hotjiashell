@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Jinkang Tang
 
-<!--
-**Hotjiashell/Hotjiashell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Sichuan University  
+🤖 Interested in Large Language Models (LLMs) & AI Agents  
+📍 China  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+- Large Language Models (LLMs)
+- AI Agents & Agent Memory
+
+---
+
+## 📫 Contact
+- Email: 2022141460038@stu.scu.edu.cn  
+- GitHub: https://github.com/Hotjiashell  
+
+---
+
+## ⚡ Fun Fact
+🎸🎶I'm learning guitar.
+
+---
