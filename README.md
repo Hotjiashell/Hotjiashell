@@ -15,10 +15,3 @@
 ## 📫 Contact
 - Email: 2022141460038@stu.scu.edu.cn  
 - GitHub: https://github.com/Hotjiashell  
-
----
-
-## ⚡ Fun Fact
-🎸🎶I'm learning guitar.
-
----
